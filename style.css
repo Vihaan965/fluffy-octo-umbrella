@@ -1,0 +1,18 @@
+body{
+    background-color:red;
+    text-align: center;
+    font-size: 25px;
+}
+#d1 , #d2 {
+    width: 50%;
+    background-color: white;
+    border-radius: 20px;
+    margin: 20px;
+}
+#Button1 {
+    background-color: black;
+    color: yellow;
+     width: 10%;
+     font-size: 20px;
+     border: 2cm;
+}
